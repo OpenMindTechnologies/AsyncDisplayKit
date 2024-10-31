@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AsyncDisplayKit",
-            url: "https://github.com/OpenMindTechnologies/AsyncDisplayKit/releases/download/3.2.0/AsyncDisplayKit.xcframework.zip",
-            checksum: "689c66729abf2a09e14128380c1fc53254199a99cbdd9187e4534974c4c9b582"
+            url: "https://github.com/OpenMindTechnologies/AsyncDisplayKit/releases/download/3.2.0.2/AsyncDisplayKit.xcframework.zip",
+            checksum: "6a2a07db1561a0d382551c38c5318f0ba905fc11f3a2a65bbde59ac33ca99074"
         )
     ]
 )
